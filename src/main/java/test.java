@@ -5,6 +5,7 @@ public class test {
 
             int fjsfsaofils;
             System.out.println(414134);
+            System.out.println("hwllo git222");
         }
     }
 }
